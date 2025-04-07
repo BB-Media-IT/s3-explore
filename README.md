@@ -1,5 +1,4 @@
-#  S3 Content Fetcher & Enricher
-
+#  S3 Content Fetcher
 Este notebook permite conectarse a un bucket de DigitalOcean Spaces (S3 compatible) para:
 
 - Listar archivos disponibles.
